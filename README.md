@@ -18,7 +18,7 @@ Sta. Mesa, Manila, Philippines <br />
 <br />
 
 ## Installation:
-1. Download release and extract.
+1. Download ` Python-Crowd-Simulator.zip ` from release and extract.
 2. From the extracted files, install the package run the following command in terminal:
    ```
    pip install -r requirements.txt
