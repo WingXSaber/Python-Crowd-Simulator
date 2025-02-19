@@ -35,7 +35,5 @@ python3 CrowdSimulator.py
 ```
 <br />
 
-#### Misc Project Files:
-https://drive.google.com/drive/folders/1ymLqlhY7mJrL4qoh0GZUG94UVc0O2lPd?usp=drive_link
 
 
